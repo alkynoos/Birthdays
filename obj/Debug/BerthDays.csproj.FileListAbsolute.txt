@@ -1,0 +1,7 @@
+C:\Users\a12m1\source\repos\Variables\BerthDays\bin\Debug\BerthDays.exe.config
+C:\Users\a12m1\source\repos\Variables\BerthDays\bin\Debug\BerthDays.exe
+C:\Users\a12m1\source\repos\Variables\BerthDays\bin\Debug\BerthDays.pdb
+C:\Users\a12m1\source\repos\Variables\BerthDays\obj\Debug\BerthDays.csproj.CoreCompileInputs.cache
+C:\Users\a12m1\source\repos\Variables\BerthDays\obj\Debug\BerthDays.exe
+C:\Users\a12m1\source\repos\Variables\BerthDays\obj\Debug\BerthDays.pdb
+C:\Users\a12m1\source\repos\Variables\BerthDays\obj\Debug\BerthDays.csprojAssemblyReference.cache
