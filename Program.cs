@@ -17,6 +17,7 @@ namespace BerthDays
 
 
             int numOfFriends = 5;
+            int test = 0;
             string[] firstNames = new string[numOfFriends];
             string[] lastNames = new string[numOfFriends];
             string[] telephones = new string[numOfFriends];
